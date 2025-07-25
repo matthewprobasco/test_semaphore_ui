@@ -10,5 +10,5 @@
           path: /tmp/tmp-oracle
           owner: root
           group: root
-          state: present
+          state: directory
           mode: 0755
